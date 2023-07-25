@@ -1,0 +1,14 @@
+#!/bin/sh        #This tells the system that the commands that follow are to be
+                 # executed by the Bourne shell.
+                 # It's called a shebang because the # symbol is called a hash,
+                 # and the ! symbol is called a bang.
+#Method 1
+$ chmod 777 name.sh # make the file excuatable
+$ ./name.sh
+#Method 2
+$ bash name.sh
+
+# commant '#'
+
+$ date
+$ pwd
