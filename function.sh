@@ -2,3 +2,4 @@
 function name(){
 	echo "priyanshu"
 }
+name();
