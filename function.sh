@@ -1,6 +1,7 @@
 #!/bin/sh
 
-function name(){
-	echo "priyanshu"
-}
-name()
+#function name(){
+#	echo "priyanshu"
+#}
+clear
+
