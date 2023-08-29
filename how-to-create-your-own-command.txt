@@ -1,0 +1,13 @@
+1. nano ~/.bashrc
+
+2.Then we have to search content as shown below. 
+
+# some more ls aliases
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+
+3.Make custom command for our own purpose :  
+
+alias [name]=' [command 1]; [command 2]; [command 3]; .....  [command n]'
+eg. alias ok='echo hELLo WorlD; firefox'
