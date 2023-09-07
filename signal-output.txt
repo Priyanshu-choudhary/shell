@@ -1,0 +1,2 @@
+          Bit Rate=72.2 Mb/s   Tx-Power=20 dBm   
+          Link Quality=51/70  Signal level=-59 dBm  
